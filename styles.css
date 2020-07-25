@@ -29,17 +29,20 @@ p {
 }
 
 img {
-  width: 70%;
+margin-top:15rem;
+  width: 100%;
 }
 
 footer {
-  margin-top: 5%;
+  margin-top:5%;
   color: #a39090;
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
 }
 button{
+margin-top: 20rem;
+font-size: 3rem;
   padding: 2rem;
   font-family: 'Indie Flower', cursive;
   background-color: rgb(73, 66, 165);
