@@ -17,7 +17,6 @@ body {
 
 h1 {
   margin: 30px;
-  font-family: 'Indie Flower', cursive;
   font-size: 5rem;
   color:rgb(195, 201, 195);
 }
@@ -44,7 +43,6 @@ button{
 margin-top: 20rem;
 font-size: 3rem;
   padding: 2rem;
-  font-family: 'Indie Flower', cursive;
   background-color: rgb(73, 66, 165);
   color: aliceblue;
   width: 30%;
